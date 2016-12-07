@@ -1,5 +1,5 @@
-
-Data: default.csv
+Files for final project:
+Data file: default.csv
 R file for Stochastic Gradient Descent function: my_sgd.R
 R file for Consensus Monte Carlo function: my_cmc.R
 R file for running real data example and generate all the plots: my_proj.R
